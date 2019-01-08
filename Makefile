@@ -7,7 +7,7 @@ NAME1 = Colleen
 NAME2 = Grace
 NAME3 = Sully
 
-SRC = ./srcs
+SRC = ./C
 SRC_PATH1 = $(SRC)/$(NAME1)/
 SRC_PATH2 = $(SRC)/$(NAME2)/
 SRC_PATH3 = $(SRC)/$(NAME3)/
